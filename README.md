@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/rabbit1.png" alt="Picasso" width="120" />
+  <img src="public/rabbit2.png" alt="Picasso" width="120" />
 </p>
 
 <h1 align="center">Picasso</h1>
